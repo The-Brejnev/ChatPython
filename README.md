@@ -1,13 +1,9 @@
-![Home View](static/../chat/static/screenshots/homeview.png?raw=true "Title")
-
-# DjangoChat
-
 # Setup
 
 The first thing to do is to clone the repository:
 
-    $ git clone https://github.com/Jalitko/DjangoChat.git
-    $ cd DjangoChat
+    $ git clone https://github.com/The-Brejnev/ChatPython.git
+    $ cd ChatPython
     
 Install project dependencies:
 
